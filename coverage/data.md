@@ -1,6 +1,6 @@
 
 ## arXiv
-**String de busca:**
+**Search string:**
 ```
 (nao robot OR humanoid robot OR humanoid) AND (reinforcement learning OR deep reinforcement learning OR Q-learning) AND (supervised learning OR unsupervised learning OR genetic algorithms OR imitation learning) AND (task performance OR success rate OR learning time)
 ```
@@ -8,7 +8,7 @@
 **Link:** https://arxiv.org/search/
 
 ## Web of Science
-**String de busca:**
+**Search string:**
 ```
 TS=(("nao robot" OR "humanoid robot" OR "humanoid") AND ("reinforcement learning" OR "deep reinforcement learning" OR "Q-learning") AND ("supervised learning" OR "unsupervised learning" OR "genetic algorithms" OR "imitation learning") AND ("task performance" OR "success rate" OR "learning time"))
 ```
@@ -16,7 +16,7 @@ TS=(("nao robot" OR "humanoid robot" OR "humanoid") AND ("reinforcement learning
 **Link:** https://www.webofscience.com/wos/woscc/basic-search
 
 ## Conference on Robot Learning (CoRL)
-**String de busca:**
+**Search string:**
 ```
 ("nao robot" OR "humanoid robot" OR humanoid) AND ("reinforcement learning" OR "deep reinforcement learning" OR "Q-learning") AND ("supervised learning" OR "unsupervised learning" OR "genetic algorithms" OR "imitation learning") AND ("task performance" OR "success rate" OR "learning time")
 ```
@@ -26,7 +26,7 @@ TS=(("nao robot" OR "humanoid robot" OR "humanoid") AND ("reinforcement learning
 - PMLR CoRL proceedings: https://proceedings.mlr.press/
 
 ## NeurIPS (Neural Information Processing Systems)
-**String de busca:**
+**Search string:**
 ```
 ("nao robot" OR "humanoid robot" OR humanoid) AND ("reinforcement learning" OR "deep reinforcement learning" OR "Q-learning") AND ("supervised learning" OR "unsupervised learning" OR "genetic algorithms" OR "imitation learning") AND ("task performance" OR "success rate" OR "learning time")
 ```
@@ -36,7 +36,7 @@ TS=(("nao robot" OR "humanoid robot" OR "humanoid") AND ("reinforcement learning
 - OpenReview NeurIPS: https://openreview.net/group?id=NeurIPS.cc
 
 ## ICLR (International Conference on Learning Representations)
-**String de busca:**
+**Search string:**
 ```
 ("nao robot" OR "humanoid robot" OR humanoid) AND ("reinforcement learning" OR "deep reinforcement learning" OR "Q-learning") AND ("supervised learning" OR "unsupervised learning" OR "genetic algorithms" OR "imitation learning") AND ("task performance" OR "success rate" OR "learning time")
 ```
@@ -44,7 +44,7 @@ TS=(("nao robot" OR "humanoid robot" OR "humanoid") AND ("reinforcement learning
 **Link:** https://openreview.net/group?id=ICLR.cc
 
 ## ICML (International Conference on Machine Learning)
-**String de busca:**
+**Search string:**
 ```
 ("nao robot" OR "humanoid robot" OR humanoid) AND ("reinforcement learning" OR "deep reinforcement learning" OR "Q-learning") AND ("supervised learning" OR "unsupervised learning" OR "genetic algorithms" OR "imitation learning") AND ("task performance" OR "success rate" OR "learning time")
 ```
@@ -54,7 +54,7 @@ TS=(("nao robot" OR "humanoid robot" OR "humanoid") AND ("reinforcement learning
 - PMLR ICML: https://proceedings.mlr.press/
 
 ## RSS (Robotics: Science and Systems)
-**String de busca:**
+**Search string:**
 ```
 ("nao robot" OR "humanoid robot" OR humanoid) AND ("reinforcement learning" OR "deep reinforcement learning" OR "Q-learning") AND ("supervised learning" OR "unsupervised learning" OR "genetic algorithms" OR "imitation learning") AND ("task performance" OR "success rate" OR "learning time")
 ```
@@ -62,7 +62,7 @@ TS=(("nao robot" OR "humanoid robot" OR "humanoid") AND ("reinforcement learning
 **Link:** https://roboticsconference.org/
 
 ## ICRA (International Conference on Robotics and Automation)
-**String de busca:**
+**Search string:**
 ```
 ("nao robot" OR "humanoid robot" OR humanoid) AND ("reinforcement learning" OR "deep reinforcement learning" OR "Q-learning") AND ("supervised learning" OR "unsupervised learning" OR "genetic algorithms" OR "imitation learning") AND ("task performance" OR "success rate" OR "learning time")
 ```
@@ -72,7 +72,7 @@ TS=(("nao robot" OR "humanoid robot" OR "humanoid") AND ("reinforcement learning
 - ICRA official: https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra
 
 ## IROS (International Conference on Intelligent Robots and Systems)
-**String de busca:**
+**Search string:**
 ```
 ("nao robot" OR "humanoid robot" OR humanoid) AND ("reinforcement learning" OR "deep reinforcement learning" OR "Q-learning") AND ("supervised learning" OR "unsupervised learning" OR "genetic algorithms" OR "imitation learning") AND ("task performance" OR "success rate" OR "learning time")
 ```
